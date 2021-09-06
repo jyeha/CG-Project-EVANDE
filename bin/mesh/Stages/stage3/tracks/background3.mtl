@@ -1,0 +1,20 @@
+newmtl skkuCampus
+Kd 1 1 1
+map_Kd skkuCampus.png
+illum 2
+
+newmtl professor1
+Kd 1 1 1
+map_Kd professor1.png
+illum 2
+
+newmtl ground 2
+Kd 1 1 1
+map_Kd ground.png
+illum 2
+
+newmtl professor2
+Kd 1 1 1
+map_Kd professor2.png
+illum 2
+

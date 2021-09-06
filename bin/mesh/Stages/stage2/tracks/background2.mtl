@@ -1,0 +1,20 @@
+newmtl logo
+Kd 1 1 1
+map_Kd logo.png
+illum 2
+
+newmtl bokhak
+Kd 1 1 1
+map_Kd bokhak.png
+illum 2
+
+newmtl ground 2
+Kd 1 1 1
+map_Kd ground.png
+illum 2
+
+newmtl military
+Kd 1 1 1
+map_Kd military.png
+illum 2
+

@@ -1,0 +1,13 @@
+newmtl BP_general_color_2
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd BP_general_albedo_color_2.png
+map_Bump BP_general_normal_map.png
+illum 2
+
+newmtl BP_cap
+Kd 1 1 1
+map_Kd BP_cap_albedo.png
+map_Bump BP_cap_normal_map.png
+illum 2
+

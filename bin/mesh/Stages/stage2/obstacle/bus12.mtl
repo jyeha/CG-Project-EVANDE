@@ -1,0 +1,5 @@
+newmtl Bus_2
+Kd 1 1 1
+map_Kd bus_albedo_2.png
+illum 2
+

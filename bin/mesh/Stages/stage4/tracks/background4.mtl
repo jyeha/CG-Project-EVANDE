@@ -1,0 +1,20 @@
+newmtl ground 2
+Kd 1 1 1
+map_Kd ground.png
+illum 2
+
+newmtl graduation_depart_top
+Kd 1 1 1
+map_Kd graduation_depart_top.png
+illum 2
+
+newmtl byebye
+Kd 1 1 1
+map_Kd byebye.png
+illum 2
+
+newmtl mainVis01
+Kd 1 1 1
+map_Kd mainVis01.png
+illum 2
+

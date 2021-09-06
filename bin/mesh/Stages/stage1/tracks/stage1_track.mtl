@@ -1,0 +1,10 @@
+newmtl Guardrails01_tiled_1x40
+Kd 1 1 1
+map_Kd Guardrails01_tiled_1x40.png
+illum 2
+
+newmtl Road_2lane_dark02_tiled_20x1
+Kd 1 1 1
+map_Kd Road_2lane_dark02_tiled_20x1.png
+illum 2
+

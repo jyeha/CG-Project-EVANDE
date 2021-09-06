@@ -1,0 +1,10 @@
+newmtl GATE_Vehicle
+Kd 1 1 1
+map_Kd Gates_Vehicle_AlbedoTransparency.png
+map_Bump Gates_Vehicle_Normal.png
+illum 2
+
+newmtl StartPoint
+Kd 0.3113208 0.3100761 0.2878249
+illum 2
+

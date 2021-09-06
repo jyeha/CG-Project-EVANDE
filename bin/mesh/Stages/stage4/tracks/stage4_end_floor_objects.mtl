@@ -1,0 +1,5 @@
+newmtl RoadBlocker2_D
+Kd 1 1 1
+map_Kd RoadBlocker2_D.png
+illum 2
+

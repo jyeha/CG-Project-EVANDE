@@ -1,0 +1,15 @@
+newmtl mainVis1
+Kd 1 1 1
+map_Kd mainVis01_tiled_1x15.png
+illum 2
+
+newmtl mainVis2
+Kd 1 1 1
+map_Kd mainVis01_tiled_1x15.png
+illum 2
+
+newmtl ground 2
+Kd 1 1 1
+map_Kd ground.png
+illum 2
+

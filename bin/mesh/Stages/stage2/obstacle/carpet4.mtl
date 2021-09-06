@@ -1,0 +1,5 @@
+newmtl rainbow
+Kd 1 1 1
+map_Kd rainbow.png
+illum 2
+

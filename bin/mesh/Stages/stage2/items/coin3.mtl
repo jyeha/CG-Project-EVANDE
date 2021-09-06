@@ -1,0 +1,6 @@
+newmtl goldCoin_Diffuse
+Kd 0.588 0.588 0.588
+map_Kd goldCoin_Diffuse.png
+map_Bump goldCoin_Normal.png
+illum 2
+
